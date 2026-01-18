@@ -1,10 +1,9 @@
 # 💫 About Me:
 - 🔭 I’m currently working on Data analystic and model development projects.
-- 🌱 I’m currently learning Deep learning with Tensor flow/Pytorch.
+- 🌱 Learning Deep learning with Tensor flow/Pytorch.
 - 🤔 I’m studying Data Science.
-- 💬 Ask me about ...
-- 📫 How to reach me: Email or Social accounts 
 - ⚡ Looking for Data Analyst role.
+- 📫 How to reach me: Email or Social accounts 
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/salim.zulfiqar.96) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/salim_zulfiqar) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/salim-zulfiqar) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/SalimZulfi34531) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:salimzulfiqar51@gmail.com) 
